@@ -1,0 +1,9 @@
+---
+title: "Object Oriented Programming Features - The Rust Programming Language"
+source: "https://doc.rust-lang.org/book/ch18-00-oop.html"
+created: 2026-03-02
+---
+
+#programming #programming-languages #rust #rust-book
+
+Object-oriented programming (OOP) is a way of modeling programs. Objects as a programmatic concept were introduced in the programming language Simula in the 1960s. Those objects influenced Alan Kay’s programming architecture in which objects pass messages to each other. To describe this architecture, he coined the term *object-oriented programming* in 1967. Many competing definitions describe what OOP is, and by some of these definitions Rust is object oriented but by others it is not. In this chapter, we’ll explore certain characteristics that are commonly considered object oriented and how those characteristics translate to idiomatic Rust. We’ll then show you how to implement an object-oriented design [[Pattern|pattern]] in Rust and discuss the trade-offs of doing so versus implementing a solution using some of Rust’s strengths instead.
